@@ -1,6 +1,10 @@
 # Music App Using Sound Cloud Api 
 
-It is a simple music app that fetches songs from sound cloud api and displays em . You will need to have client_id to run the program to it's full potential :)<br><br>
+It is a simple music app that fetches songs from sound cloud api and displays em.It uses **Html5 , Css3 , Vanillajs and Bootstrap4** .
+You will need to have client_id to run the program to it's full potential :)<br><br>
+
+**How to Contribute ?**
+Just open a pr and I will surely look into ... also describe what it is changing and what it is for ... for some ideas pn what to improve are found in the end...
 
 **The app works/runs in 5 steps <br>
 =>1 getting the search query<br>
@@ -9,7 +13,7 @@ It is a simple music app that fetches songs from sound cloud api and displays em
 =>4 Adding to the playlist and letting you play the music <br>
 =>5 Saving your playlist to local storage**<br>
 <br><br>
-**Breakdown of code used for each step**<br>
+**Breakdown of what's happening in each step**<br>
 
 **Step 1 : Getting the Search Query**<br>
    We cannot fecth all the infinite data an api holds .. we fetch data only which the user needs ..<br>
@@ -34,10 +38,15 @@ We have a container to which all the cards are written <br>
 <br>
 When we know what the user wants to hear let's just embed that in the search and add to the playlist and let him/her enjoy the song 
 
-<img src=''>
+<img src='https://cdn.discordapp.com/attachments/708087360721780877/732077473549778954/Screenshot_20200713-0622492.jpeg'>
 <br><br>
-**Step 5 : Saving to local storage and more**<br>
+**Step 5 : Saving to local storage and more** <br>
 we have stored all our inner html in the local storage ... added a delete track button to delete specific track and delete playlist to delete the entire playlist from local storage 
-
-<img src=''>
-<img src=''>
+<br><br>
+<img src='https://cdn.discordapp.com/attachments/708087360721780877/732077469770842112/Screenshot_20200713-0626092.jpeg'>
+<img src='https://cdn.discordapp.com/attachments/708087360721780877/732077469406068756/Screenshot_20200713-0626093.jpeg'>
+<hr><br><br>
+**Things that can be improved**:<br>
+Site can be made responsive <br>
+Card height problem can be solved<br>
+More buttons and filtering features can be added<br>
