@@ -23,27 +23,32 @@ Just open a pr and I will surely look into ... also describe what it is changing
   <img src='https://cdn.discordapp.com/attachments/708087360721780877/732077474095300658/Screenshot_20200713-0608122.jpeg'>
    <br>
   After we recieve the input and store it in some form of variable we can move ahead with the process<br><br>
+  
 **Step 2 : Fetching information/data from api**<br>
 To perform this step we need to have client id issued on soundcloud's api's website ... you can make it into an object to easily access the results  <br>
 In the project we have defined api as an object and have written fuctions accordingly <br><br>
 <img src='https://cdn.discordapp.com/attachments/708087360721780877/732077471448563782/Screenshot_20200713-0625562.jpeg'><br><br>
+
 **Step 3 : Displaying the output** <br><br>
 Using Foreach or for loop you can  loop through the results and keep creating card objs with obj.tutle and obj.image ... I personally find for loop easier and faster to do and  it has been used in this project:)
 <br>
 We have a container to which all the cards are written <br>
 <img src='https://cdn.discordapp.com/attachments/708087360721780877/732077473822539857/Screenshot_20200713-0618342.jpeg'><br>
+
 **Step 4 : Adding to playlist and playing**
 <br>
 When we know what the user wants to hear let's just embed that in the search and add to the playlist and let him/her enjoy the song 
 
 <img src='https://cdn.discordapp.com/attachments/708087360721780877/732077473549778954/Screenshot_20200713-0622492.jpeg'>
 <br><br>
+
 **Step 5 : Saving to local storage and more** <br>
 we have stored all our inner html in the local storage ... added a delete track button to delete specific track and delete playlist to delete the entire playlist from local storage 
 <br><br>
 <img src='https://cdn.discordapp.com/attachments/708087360721780877/732077469770842112/Screenshot_20200713-0626092.jpeg'>
 <img src='https://cdn.discordapp.com/attachments/708087360721780877/732077469406068756/Screenshot_20200713-0626093.jpeg'>
 <hr><br><br>
+
 **Things that can be improved** :<br>
 Site can be made responsive <br>
 Card height problem can be solved<br>
