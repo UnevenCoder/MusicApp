@@ -1,0 +1,32 @@
+body{
+  margin:0;
+  
+}
+.container{
+  width:100vw;
+  height:100vh;
+}
+.sidebar{
+  background-color:grey;
+}
+.result{
+  width:60vw;}
+/**  
+  @media (max-height:600px){
+    #cardio{
+      height:10vh;
+    }
+  }
+  @media (max-height:1200px){
+    #cardio{
+      height:13vh;
+    }
+  }
+  @media (max-height:2000px){
+    #cardio{
+      height:15vh;
+    }
+  }*/
+  .hide{
+    display:none;
+  }
