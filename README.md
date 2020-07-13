@@ -7,7 +7,7 @@ It is a simple music app that fetches songs from sound cloud api and displays em
 =>2 fetching data from an api with that specific search query<br>
 =>3 displaying it [the img and the name]<br>
 =>4 Adding to the playlist and letting you play the music <br>
-=>5 Saving your playlist to local storage **<br>
+=>5 Saving your playlist to local storage**<br>
 <br><br>
 **Breakdown of code used for each step**<br>
 
