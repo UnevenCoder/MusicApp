@@ -46,7 +46,7 @@ we have stored all our inner html in the local storage ... added a delete track 
 <img src='https://cdn.discordapp.com/attachments/708087360721780877/732077469770842112/Screenshot_20200713-0626092.jpeg'>
 <img src='https://cdn.discordapp.com/attachments/708087360721780877/732077469406068756/Screenshot_20200713-0626093.jpeg'>
 <hr><br><br>
-**Things that can be improved**:<br>
+**Things that can be improved** :<br>
 Site can be made responsive <br>
 Card height problem can be solved<br>
 More buttons and filtering features can be added<br>
